@@ -1,0 +1,19 @@
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    & .NavBar_imagem{
+     
+        width: 85px;
+        padding: 25px;
+    }
+
+    & .NavBar_titulo{
+
+        color: white;
+        width: fit-content;
+        font-size: 50px;
+        
+    }
+}
