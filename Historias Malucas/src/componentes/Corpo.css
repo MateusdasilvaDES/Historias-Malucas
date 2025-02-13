@@ -1,3 +1,8 @@
+
+
+body{
+  background-color: #5D98DC;
+}
 .container_regras{
     display: flex;
     align-items: center;
@@ -45,8 +50,9 @@
     
    & .imagem{
 
-     width: 200px;
-     background-color: white;
+     width: 50%;
+     background-color: rgb(255, 255, 255);
+     font-size: 100px;
    }
  }
 }
